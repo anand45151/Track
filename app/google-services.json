@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "677457945453",
+    "project_id": "scet-e3cba",
+    "storage_bucket": "scet-e3cba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:677457945453:android:d334ba17ab8236f7f47064",
+        "android_client_info": {
+          "package_name": "com.example.admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmc8_WhfmeEV8brhRnuZynNhu5YV-mUhI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
